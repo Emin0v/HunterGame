@@ -1,0 +1,2 @@
+mygame.Game
+mygame.Fire
